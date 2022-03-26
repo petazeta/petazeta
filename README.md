@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @petazeta
 - 👀 I’m interested in single web applications development
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on any type of single page application project
 - 📫 How to reach me melchorherrera@gmail.com
 
