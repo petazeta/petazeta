@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @petazeta
-- 👀 I’m interested in single web applications development
+- 👀 I’m interested in single page web applications development
 - 🌱 I’m currently learning become better
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborators
 - 📫 How to reach me melchorherrera@gmail.com
 
 <!---
