@@ -1,4 +1,4 @@
-- 👋 Hi, javascript fullstack developer
+- 👋 Hi there!! I am javascript fullstack developer
 - https://youronlineshop.net
 
 <!---
